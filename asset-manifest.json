@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/invitation/static/css/main.afb8fd44.css",
+    "main.css": "/invitation/static/css/main.a1fb7e54.css",
     "main.js": "/invitation/static/js/main.b85d536c.js",
     "static/js/787.ce8a8ee2.chunk.js": "/invitation/static/js/787.ce8a8ee2.chunk.js",
     "static/media/GowunDodum-Regular.ttf": "/invitation/static/media/GowunDodum-Regular.39c9a39c246c3c54c53e.ttf",
@@ -43,12 +43,12 @@
     "static/media/white_right.png": "/invitation/static/media/white_right.62e042c96c5b9b5d366f.png",
     "static/media/white_left.png": "/invitation/static/media/white_left.929f6fe04cd23ca619b3.png",
     "index.html": "/invitation/index.html",
-    "main.afb8fd44.css.map": "/invitation/static/css/main.afb8fd44.css.map",
+    "main.a1fb7e54.css.map": "/invitation/static/css/main.a1fb7e54.css.map",
     "main.b85d536c.js.map": "/invitation/static/js/main.b85d536c.js.map",
     "787.ce8a8ee2.chunk.js.map": "/invitation/static/js/787.ce8a8ee2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afb8fd44.css",
+    "static/css/main.a1fb7e54.css",
     "static/js/main.b85d536c.js"
   ]
 }
