@@ -1,0 +1,83 @@
+
+@font-face {
+  font-family: "GowunDodum";
+  font-weight: normal;
+  src: url("./assets/fonts/GowunDodum-Regular.ttf") format("truetype");
+}
+.Story {
+  text-align: center;
+  flex-direction: column;
+  font-family: "GowunDodum";
+  word-break: keep-all;
+    word-wrap: normal;
+}
+
+.Story:hover {
+   text-decoration-color: white;
+}
+.body p {
+  font-family: "GowunDodum";
+  font-size: 11px;
+}
+
+.side {
+  font-size: 12px;
+}
+
+.padding-10 {
+    padding: 20px;
+}
+
+
+.half {
+  flex-direction: row;
+  width: 100%;
+  font-size: 7px;
+  padding: 1px;
+  font-family: "GowunDodum";
+}
+
+.reg {
+  font-family: "GowunDodum";
+    font-size: 10px;
+  line-height: 1.5;
+  /* letter-spacing: 0.01em; */
+
+    /* flex: 1; */
+    /* padding: 6px 10px; */
+}
+
+.half .sinai {
+   color: rgb(255, 77, 231);
+}
+.half .youngrak {
+   color: rgb(84, 168, 236)
+}
+
+/* select {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 4px 3vw;
+  text-decoration: none;
+  font-size: 5px;
+  width: min-content;
+} */
+
+.image {
+  width: 100px;
+}
+
+ .lang  button{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 9999;
+  padding: none;
+  background-color: transparent !important;
+}
+
+.middle {
+   /*  background-size: contain; */
+  background-size: cover;
+}

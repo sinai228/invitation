@@ -1,0 +1,47 @@
+
+
+@font-face {
+    font-family: 'iceJaram-Rg';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceJaram-Rg.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  @font-face {
+    font-family: 'Handletter';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_05@1.0/Handletter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Uiyeun';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105@1.1/Uiyeun.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+  font-family: "GowunDodum";
+  font-weight: normal;
+  src: url("./assets/fonts/GowunDodum-Regular.ttf") format("truetype");
+}
+.FAQ {
+    text-align: center;
+  flex-direction: column;
+}
+p {
+  margin: 14px;
+  font-family: "GowunDodum";
+}
+.navbar li {
+   font-family: "GowunDodum";
+}
+.middle {
+    background-size: cover;
+}
+.FAQ .body {
+  font-family: "iceJaram-Rg";
+}
+.FAQ .body .AccordionDetails {
+  font-family: "iceJaram-Rg";
+}
